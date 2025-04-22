@@ -1,2 +1,2 @@
 # Firstone
-Trial version
+# basic code for python
